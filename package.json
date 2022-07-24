@@ -1,7 +1,7 @@
 {
-  "name": "games-wabot",
+  "name": "Emilia-MD",
   "version": "0.9.8",
-  "description": "Customizable WhatsApp Bot",
+  "description": "WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
